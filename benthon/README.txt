@@ -9,8 +9,8 @@ the basics are: print "(your text)"
                 wait (amount of seconds)
                 if (statement)
                 let (variable) = (anything)
-3:open it.
-there should be a button it the editor that says open. open the .bth (benthon file format) file titled example and run it
+3:projects.
+so create a file. call it projects. add the .bth file example.bth and click on open in the editor navigate to the projects folder and open it.
 
 
 requirements for benthon are:
